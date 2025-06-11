@@ -38,5 +38,6 @@ Ensure the following are installed:
 ### 📦 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/resume-analyzer-job-matcher.git
+git clone https://github.com/your-username/resume-analyzer-job-matcher.git](https://github.com/Shahid1Malik/AI-Powered-Resume-Analyzer-Job-Matcher
+
 cd resume-analyzer-job-matcher
